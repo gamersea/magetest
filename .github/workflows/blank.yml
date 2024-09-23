@@ -6,9 +6,9 @@ on:
       - main
 
 env:
-  GAR_LOCATION: us-west2-a
+  GAR_LOCATION: us-west2
   GOOGLE_CLOUD_RUN_SERVICE_NAME: magetestgithub
-  IMAGE: mageai/mageai:latest
+  IMAGE: mageai
   PROJECT_ID: testmagegithub
   REPOSITORY: testmage
 
