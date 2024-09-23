@@ -10,7 +10,7 @@ env:
   GOOGLE_CLOUD_RUN_SERVICE_NAME: magetestgithub
   IMAGE: mageai
   PROJECT_ID: testmagegithub
-  REPOSITORY: magetest
+  REPOSITORY: testmage
 
 jobs:
   build-and-deploy:
