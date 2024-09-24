@@ -6,10 +6,10 @@ on:
       - main
 
 env:
-  GAR_LOCATION: us-west1
-  GOOGLE_CLOUD_RUN_SERVICE_NAME: magetestgithub
+  GAR_LOCATION: us-west2
+  GOOGLE_CLOUD_RUN_SERVICE_NAME: mage-data-prep
   IMAGE: mageai
-  PROJECT_ID: testmagegithub
+  PROJECT_ID: testmagegithub2
   REPOSITORY: testmage2
 
 jobs:
